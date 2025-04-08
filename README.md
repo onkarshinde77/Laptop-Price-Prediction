@@ -70,4 +70,4 @@ Regression Algorithm (e.g., RandomForestRegressor)
 🧑‍💻 Author
 Onkar Shinde
 AI & Data Science Enthusiast
-![Linkedin](www.linkedin.com/in/onkar-shinde77/)
+[Linkedin](www.linkedin.com/in/onkar-shinde77/)
