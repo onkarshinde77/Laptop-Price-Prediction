@@ -49,7 +49,7 @@ Coming Soon...
 ## 🛠️ Setup & Installation
 
 ### 📦 Backend (Flask + ML Model)
-```bash
+
 cd backend
 pip install -r requirements.txt
 python app.py
@@ -70,4 +70,4 @@ Regression Algorithm (e.g., RandomForestRegressor)
 🧑‍💻 Author
 Onkar Shinde
 AI & Data Science Enthusiast
-[Linkedin](www.linkedin.com/in/onkar-shinde77/)
+[Linkedin](https://www.linkedin.com/in/onkar-shinde77/)
